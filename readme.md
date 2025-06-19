@@ -4,7 +4,7 @@
 
 - Im currently working on Blocky Fort
 
-- Im currently learning **Advanced html and css**
+- Im currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
