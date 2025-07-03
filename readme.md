@@ -1,13 +1,8 @@
 
 <h1 align="center">Hi , I'm Sanu</h1>
 <h3 align="center">A furry femboy from the Maldives</h3>
-<h3 align="left">About me:</h3>
-<p align="left">
 - Im a Digital Artist
 - Developer/Programmer
-
-<h3 align="left">Learning:</h3>
-<p align="left">
 - Learning **C++**
 - Learning **next.js**
 
