@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi , I'm Sanu</h1>
 <h3 align="center">A furry femboy from the Maldives</h3>
+<h3 align="left">About me:</h3>
+- Im a Digital Artist
+- Developer/Programmer
 
-- Im currently working on Blocky Fort
-
-- Im currently learning **C++**
+<h3 align="left">Currently learning:</h3>
+- **C++**
+- **next.js**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
