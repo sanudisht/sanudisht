@@ -5,9 +5,9 @@
 - Im a Digital Artist
 - Developer/Programmer
 
-<h3 align="left">Currently learning:</h3>
-- **C++**
-- **next.js**
+<h3 align="left">Learning:</h3>
+- Learning **C++**
+- Learning **next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
