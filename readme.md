@@ -8,7 +8,6 @@
 <h3 align="left">Currently learning:</h3>
 - **C++**
 - **next.js**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
