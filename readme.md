@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi , I'm Sanu</h1>
-<h3 align="center">A furry femboy from the Maldives</h3>
 
 - Im a **Developer/Programmer**
 
